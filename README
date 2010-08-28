@@ -1,0 +1,7 @@
+python and ruby version of http://nakkaya.com/2010/08/24/a-micro-manual-for-lisp-implemented-in-c/ by nakka
+to test,
+
+$ make all
+
+by @mizuy
+http://tmedic.org/
